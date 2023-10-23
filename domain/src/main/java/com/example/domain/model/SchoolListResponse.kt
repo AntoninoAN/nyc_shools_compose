@@ -1,4 +1,4 @@
-package com.example.nycschoolsnomerge_compose.model
+package com.example.domain.model
 
 data class SchoolListResponse(
     val dbn: String,

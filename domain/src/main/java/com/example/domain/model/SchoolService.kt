@@ -1,4 +1,4 @@
-package com.example.nycschoolsnomerge_compose.model
+package com.example.domain.model
 
 import retrofit2.http.GET
 
