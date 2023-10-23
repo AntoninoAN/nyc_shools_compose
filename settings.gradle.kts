@@ -15,4 +15,6 @@ dependencyResolutionManagement {
 
 rootProject.name = "NYCSchoolsNoMerge_Compose"
 include(":app")
+include(":domain")
+include(":repository")
  
